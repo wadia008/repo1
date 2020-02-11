@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1A20-A4A3
+
+ Directory of C:\Users\wasiy\OneDrive\Desktop\git_repo
+
+11/02/2020  09:24               321 index.html
+11/02/2020  09:17               273 test1.txt
+11/02/2020  11:07                 0 text2.txt
+               3 File(s)            594 bytes
+               0 Dir(s)   2,936,389,632 bytes free
